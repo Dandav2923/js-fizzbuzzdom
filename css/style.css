@@ -7,3 +7,39 @@
 html {
     font-size: 100%;
 }
+
+.w-100 {
+    width: 100%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.d-flex {
+    display: flex;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.green  {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
