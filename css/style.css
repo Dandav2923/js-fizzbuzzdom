@@ -25,6 +25,7 @@ html {
   gap: 10px;
   width: 80%;
   margin: 0 auto;
+  justify-content: center;
 }
 
 .box {
@@ -42,4 +43,12 @@ html {
 
 .yellow {
   background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.blu {
+    background-color:lightblue;
 }
